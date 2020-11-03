@@ -3,7 +3,7 @@
 Hi, I'm Z.
 
 I am the creator of [**zwrites.com**](zwrites.com). 
-I started this repository to keep myself accountable in making a dream I have come true. This dream is to be a Technical Writer.  
+I started this repository to keep myself accountable in making a dream I have come true. This dream is to be a Technical Writer, and with both hardwork and dedication I plan to make this dream a reality.   
 
 I've always been a writer of sorts. I write tech specs, creative stories, financial bits of wisdom -  the list goes on and on! 
 
