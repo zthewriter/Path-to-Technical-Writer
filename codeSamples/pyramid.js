@@ -26,6 +26,17 @@
 
 */
 
-function printPyramid() {
-  console.log()
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
