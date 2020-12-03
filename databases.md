@@ -7,7 +7,7 @@ This introducion to databases is intended to investigate and better understand t
 
 ### Purposes of Databases
 
-#### Databases have three purposes: 
+###### Databases have three purposes: 
 1. To store data.
 2. To provide an organized strcuture. 
 3. To act as a mechanism to interact with data.
