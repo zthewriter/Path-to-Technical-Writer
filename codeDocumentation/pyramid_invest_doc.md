@@ -78,5 +78,7 @@ Output:
 Steps to build the above pyramid structure:
 
 1. Complete the same steps in the above structure.
+   
 2. Change step 4. ii. and set the j parameter to j <= (n - i +1).
+   
 3. Run the function printPyramid(5) and observe the new structure.  

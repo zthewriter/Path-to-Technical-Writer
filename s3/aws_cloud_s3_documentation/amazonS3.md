@@ -8,13 +8,13 @@ This past week I utilized Amazon S3 for the first time. At the beginning of my e
 
 Amazon S3 offers users the opportunity to create Buckets. These Buckets function as an environment to store files. Users can create multiple Buckets.
 ###### Amazon S3 UI 
-![Access Control List](./s3/CreateaBucket.png)
+![Access Control List](./s3/../../s3_images/CreateaBucket.png)
 
 ### Objects
 
 Objects exist within Buckets in Amazon S3. They can be documents, photos, videos and much more.
 
-![Access Control List](./s3/postupload.png)
+![Access Control List](./../s3_images/postupload.png)
 
 
 **`Note:`**`Folders can be created within Buckets as a tool for organizing files.` 
@@ -28,9 +28,9 @@ Each Object within a Bucket has an Access Control List (ACL). This setting deter
 The below two images are examples of how to add images in Markdwon using both a relative path and a remote path. The code used to upload the image will be available below the image for reference.  
 
 ###### relative path to file
-![Access Control List](./s3/accesscontrollist.png)
+![Access Control List](./s3/../../s3_images/accesscontrollist.png) 
 ```
-![Access Control List](./s3/accesscontrollist.png)
+![Access Control List](./s3/../../s3_images/accesscontrollist.png) 
 ``` 
 
 ###### remote path to file
