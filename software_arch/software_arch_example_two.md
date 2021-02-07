@@ -34,7 +34,7 @@ The REST API architecture is composed of the following elements, properties, and
 ## REST API 
   - **Properties:** It handles ```GET```, ```POST```, ```PUT```, or ```DELETE``` requests, and pulls such requests from the Database.
   - **Relationships:** It has bi-directional relatinships with both the Client and the Database. The REST API receives a request from the Client and forwards it to the Database. The Database composes a response to the request and forwards it back to the REST API. The REST API sends the Database's response to Client in the format(s) of JSON and/or XML.  
-  - 
+
 <a name="c"></a> 
 ## Database 
 
